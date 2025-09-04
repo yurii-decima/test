@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/yurii-decima/test/
+    type: markup
+
+folders:
+  /products/: /products/default
