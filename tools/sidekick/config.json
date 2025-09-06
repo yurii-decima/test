@@ -1,0 +1,5 @@
+{
+  "project": "Yurii Test",
+  "editUrlLabel": "Yurii Edit URL",
+  "editUrlPattern": "https://da.live/edit#/yurii-decima/test{{pathname}}"
+}
